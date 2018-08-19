@@ -1,0 +1,8 @@
+pulic class test{
+ public statci void main(String[]args){
+   int a = 1;
+   System.out.println("sss"，a)；
+
+  }
+ }
+ 1111111111111111111111
